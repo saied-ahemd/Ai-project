@@ -6,4 +6,4 @@ more on that visit https://www.youtube.com/watch?v=2uxXPzm-7FY and https://www.y
 the link for the dataset https://www.kaggle.com/grouplens/movielens-20m-dataset
 
 
-https://raw.githubusercontent.com/salah-taha/Ai-project/main/ai_project.mp4
+https://user-images.githubusercontent.com/salah-taha/Ai-project/main/ai_project.mp4
